@@ -5,4 +5,4 @@ steps:
 4) making local folder using Git Bash in C:\Users\student\Desktop\SoftwareEngeering[E]
 5) making the clone of git respiratory of learning-software-engineering-summer2024-2025-sec-e using command: "git clone"
 5) making sure that status of the git file is created by giving command:"git status"‌ by going in the git directory
-6) to add (git add filename.extension) then to commit (git commit) and to push (git push)
+6) to add (git add filename.extension) then to commit (git commit -m "commitname") and to push (git push)
