@@ -1,0 +1,1 @@
+printed "Hello world", and initialing and declaring varialble, and making list in python
